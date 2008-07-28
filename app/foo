@@ -1,0 +1,11 @@
+CRUD
+
+def new/create => POST /posts
+
+def edit/update => PUT /posts/1
+
+def destroy => DELETE /posts/1
+
+def show => GET /posts/1
+
+def index => GET /posts
